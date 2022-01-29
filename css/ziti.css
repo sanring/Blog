@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'ziti';
+    src:url('https://cdn.jsdelivr.net/gh/nianszmb/CDN@2.5/FOT-MatissePro-UB.otf') format("truetype"); /* 修改成你的字体 */
+    font-display:swap
+}
+h1#site-title {
+    font-family:ziti!important
+}
+span#subtitle {
+    font-family:ziti!important
+}
+a#site-name {
+    font-family:ziti!important
+}
